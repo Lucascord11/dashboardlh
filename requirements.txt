@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+gspread==6.2.0
+streamlit
+pandas
+oauth2client
+matplotlib

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lh-tarefas",
+  "private_key_id": "9b0bd321dfed796ba487fca7341c144bb047fd4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZbYYJQKeOx0RI\nA7VGcKZJBwtnnQ929ISv9BDcXLygQd6axt1J1vmb/ZhY1JwdMROtsozekV9YQiwj\nMVAXW4xqfc1aQwtHjyBhu8PWRhVGBJeoMrBxOtuu6/fegrXE8eQeNFVanLjThCCN\nXSXrQU7imWzNKFEjddhae5QBbQBOyVMSpLdM2z/9ygjFohoxjMQL+FRuecX9phje\nNeS4uW2olRepNUfCXLCwKxoW0H1qyx1RLnxPQhYXczGakFu+XyWE6rQO92fzLv6z\ngz0W3zPDVvKs22yV2+FvMApGjtKNRc6tbNaNggE5E1iSv/IOyrev+ZuZ/fuWjPMx\nFr4Eno5TAgMBAAECggEAAg9BIpVNZ2zVZYxwPlqS0kSrnWLZFdqUs/xiRhqBLunX\nOGAdEhxkAOl5QZFbnGstyvEGCvwViyB7vcAAO9ICL0zbXrkddXAScadcE4uJm0Av\n4sf+ikc+DX1VIiZ0a++R2Z3LsTAK3PYQP0aPaJfilDYf2B52cxkkRrck9itLwkAU\nsROHN4NycLwUCk/EoHYZ96FQOs0pfZ99T4ThWxK3BKFt4U2Va1RwssCWsWZ3oJbp\nXpCVsNCjjSQB9v7OwM0q1XOHHl0lMYbLSh+DZGUB7bQWwhALdwOTW4pW8eVpa423\nvvUzObaPwFSLDw/20/IwnCR4W8vP8asCR0HDnGu7AQKBgQDuHbvlmT6roMspaiBW\n56Omf6SNeOc+ewv/tyJ7hPVNzbjUjFnUa/DFH73bcmxwdWMpc/nvc53hlyBFI3Ms\nMmHM2YPRkh07/k2H0qiFkH+DhkC9VQUioJjcQ+UPeDJqAgkBNW8xVGCfftgnanUe\nFgTtjij55T+QSMz/S5c8T4xA9QKBgQDpwgO/89UtB9VQ2J3pdk+zmNR+qhyiu5mM\nXZhUG6eM/aUfrT5JZNR8ZFmDwpfAJtVUkymO64FqM09VdCgC15Ge2PGJS5a5szyC\nYFu91LlzvT6YaiUqBCxE37TXaO9+lCubYC2R4KQTq0Ow/XqLGgCcolv4sGJ8LYWV\nRXsGaiBlJwKBgBrUDs+XrI/51eocovgnsTCZQRkPfj5z7q4pHCF+oYTaoPCRv61H\nXCFZqjKHeeBR2ZJaFtb719YLCP/BNsDMDGjgORHrvI99345mFca2uSdAgRrT8Xgt\nUAvBOpW7nTKEeC9CrfyI3TobOI94VynEoVmCoutFARxol3BMPAX3kH3hAoGBAL/r\nUcbUe86X4tSYtLXMNE3BCZ3hLteQ7NVotrs/ZUYFrf+e7ke16BslDLV4G71gZMAm\nfvVfeAZokBcZ4gvLTzy64zwU+nAGr4RfdpMZxxU2Z+EdLNwdRvdZMBG3jwI+xrqv\nsVpWtH+NmmsDAgyY0a3IQ3if4IwRl95hiEtQ8L37AoGBALlrQLc49p2FfwnoNV3Q\ntsxKjAz7EgLqCTIv4arZ4rjM20nsiXVFF7jbf3izA5XVoBrFCDx5iCI7jH805yuZ\nNZTDJmSpwnJqPd3iyJ/r2SUDtfmEHjJIT2s8E3gUxXCqhSqd9asBxYTAaa6WlwLD\nFUKeCbG4J1pRx4QpW904jOzc\n-----END PRIVATE KEY-----\n",
+  "client_email": "lh-tarefas@lh-tarefas.iam.gserviceaccount.com",
+  "client_id": "104279259975769483282",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lh-tarefas%40lh-tarefas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
